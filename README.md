@@ -1,2 +1,1 @@
-# OrigamiWebsiteDesign2
-Origami Website Design part 2
+# PRO-C50-ORIGAMI-WEBSITE-DESIGN-PART-2
